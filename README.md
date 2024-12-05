@@ -1,5 +1,5 @@
 ﻿# APiBankDio
-Construi essa API para completar o desafio do Curso de Puthon back.
+Construi essa API para completar o desafio do Curso de Python back.
 
 Contruida com FastAPI, por se tratar de uma API de exemplo, fiz com o SqlLite,  fiz as querys de meneiras diferentes nos endpoints para conhecer e testar as possibilidades.
 
